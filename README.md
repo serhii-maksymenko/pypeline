@@ -1,6 +1,6 @@
 # Pypeline
 
-Provides building blocks for constructing video processing pipelines.
+Provides building blocks for constructing video processing pipelines on top of multiprocessing framework.
 
 ## Installation
 
